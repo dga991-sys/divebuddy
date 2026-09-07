@@ -5,3 +5,4 @@ Nie używaj secret/service_role key.
 
 Projekt Supabase: https://nrxuvdkoacfycbvursne.supabase.co
 Tabela: public.profiles
+Deploy update
